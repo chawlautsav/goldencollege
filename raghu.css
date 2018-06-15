@@ -1,0 +1,253 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px;padding:0px;}
+body
+{
+	font-family:Georgia, "Times New Roman", Times, serif
+}
+a
+{
+	text-decoration:none;
+}
+
+.headerr
+{
+	width:978px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.bodyy
+{
+	width:978px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.colorgrey
+{
+	color:#979797;
+	text-align:center;
+}
+	.colorgrey p
+	{
+		line-height:19.6px;
+		font-size:14px;
+	}
+	.colorgrey h4
+	{	
+		font-size:16px;
+		font-weight:400;
+		line-height:19px;
+		margin-bottom:10px;	
+		margin-top:10px;
+	}
+	.colorgrey img
+	{
+		margin-top:10px;
+		border-radius:5px;
+	}
+
+
+
+.navbar								
+{
+	width:100%;
+	height:auto;
+	background-color:#F9F9F9;
+}
+header
+{
+	width:100%;
+	height:auto;
+	background-color:#F9F9F9;
+	float:left;
+	border-radius:10px;
+}
+			.logo ul li img
+			{
+				margin: 0px 0px 0px 100px;
+			}
+.namelogo
+{
+	width:50%;
+	float:left;
+	padding-left:50px;
+	padding-top:2px;
+	padding-bottom:2px;
+}
+		header a h2
+			{
+				margin:20px 40px 35px 0px;
+				text-decoration:none;
+			    float:right;	
+				font-size:20px;
+				font-family:tahoma;
+			}
+
+.menui
+{
+	float:left;
+	margin:0px 10px 0px 0px;
+}
+.menui ul
+	{
+		list-style:none;
+	}
+		.menui ul li
+		{
+			float:left;
+			text-align:center;
+			display:block;
+			padding-left:35px;
+			padding-right:15px;
+			margin-top:5px;
+			margin-bottom:5px;
+		}
+			.menui ul li a
+			{				
+				font-size: 17px;
+				text-transform:uppercase;
+				line-height:20px;
+				color:#06213F;
+				float:right;
+				padding:10px;
+				text-decoration:none;
+				text-align:center;
+			}
+				.menui ul li a:hover
+				{
+					display:block;
+					background-color:#06213F;
+					color:white;
+					border-radius:7px;
+				}
+.menu
+{
+	float:right;
+	width:36%;
+	margin:25px 10px 0px 0px;
+	
+}
+
+	.menu ul
+	{
+		list-style:none;
+	}
+		.menu ul li
+		{
+			float:left;
+			text-align:center;
+			display:block;
+		}
+			.menu ul li a
+			{	
+				font-size: 15px;
+				font-family: tahoma;
+				color:#06213F;
+				float:right;
+				padding:10px;
+				text-decoration:none;
+			}
+				.menu ul li a:hover
+				{
+					display:block;
+					background-color:#06213F;
+					color:white;
+					border-radius:7px;
+				}
+		
+		
+		
+		/*--------------------HEADER CLOSE----------------*/
+
+
+		/*---------------------BODY START-----------------*/
+		
+.space
+{
+	width:80px;
+	height:70px;
+}
+.main
+{
+	width:100%;
+	height:auto;
+	background-color:#F9F9F9;
+	float:left;
+	border-radius:10px;
+}
+.mainl2
+{
+	width:938px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:40px;
+}
+.l3left
+{
+	width:65%;
+	float:left;
+}
+	.l3left marquee
+	{
+		color:#979797;
+		font-size:14px;
+		padding-bottom:8px;
+	}
+	.l3line
+	{
+		background-color:#979797;
+		height:1px;
+	}
+
+.l3right
+{
+	width:30%;
+	float:right;
+}
+	.linkss
+	{
+		background-color:#fff;
+		border-radius:8px;
+		width:231px;	
+		height:260px;	
+	}
+	.linkss p
+	{
+		color:#55ABDA;
+		line-height:19.6px;
+		font-size:14px;
+	}
+	.linkss ul
+	{
+		list-style:disc;
+		margin-left:30px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	/*-----------COURSES START---------------*/
+	
+.coursel3
+{
+	margin-left:70px;
+}
+	.coursel3 h4
+	{
+		font-size:30px;
+		line-height:50px;
+		font-style:normal;
+		font-weight:600;
+	}
+	.coursel3 ul
+	{
+		list-style:circle;
+	}
+		.coursel3 ul li
+		{
+			font-size:24px	
+		}
